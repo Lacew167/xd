@@ -1,8 +1,2 @@
  cambio 1
-cambio2
-cambio 3
-cambio 4
-cambio 5
-cambio 6
-cambio 7
-
+Maste hace cambio en la linea 2
